@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanchitkhthpalia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JWKZuW7J4XyPIILjoAQjJpL93cUXCcyB/view?usp=sharing](https://drive.google.com/file/d/1JWKZuW7J4XyPIILjoAQjJpL93cUXCcyB/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Swdb0FLgTNyhExQgc-V7xKSG2YDBeuG5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
