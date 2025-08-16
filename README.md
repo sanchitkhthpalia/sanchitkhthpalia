@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanchitkhthpalia](https://github.com/sanchitkhthpalia)
 
-- 💬 Ask me about **React, MongoDB, Expressjs, Nodejs, Next.js, Tailwind CSS, C#, Firebase**
+- 💬 Ask me about **React, MongoDB, Expressjs, Nodejs, Next.js, Tailwind CSS, C++, Firebase, Python**
 
 - 📫 How to reach me **sanchitkhthpalia@gmail.com**
 
